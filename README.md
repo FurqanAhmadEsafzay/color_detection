@@ -11,11 +11,12 @@ Color detection is a common computer vision task with applications in robotics, 
 
 ##  Technologies Used
 
--  Python
--  OpenCV (`cv2`)
+-  Python 3.12
+-  OpenCV (`cv2`) with GUI Support
 -  Pillow
 -  Webcam for real-time input
 -  NumPy
+-  Environment Color Detection
 
 ---
 
